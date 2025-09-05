@@ -2,7 +2,7 @@
 
 https://email-generation-system.netlify.app/
 
-This is a simple Java console-based project that generates official email addresses for new employees in a company. The system takes the employee's name and department as input, generates a strong random password, and creates a unique email ID even if multiple employees have the same name.
+This is a simple Java project that generates official email addresses for new employees in a company. The system takes the employee's name and department as input, generates a strong random password, and creates a unique email ID even if multiple employees have the same name.
 
 The project is built using core Java and demonstrates the use of object-oriented programming principles.
 
